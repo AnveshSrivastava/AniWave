@@ -65,7 +65,7 @@ hianime-clone/
 
 ## 🌐 Live Demo & Media
 
-- 🔗 **Live App:** _Coming Soon_
+- 🔗 **Live App:** https://aniwavee.netlify.app/
 - 🎥 **Demo Video:** _Coming Soon_
 
 ---
